@@ -13,10 +13,9 @@ The files will be built and placed in `/backend/static/react` and `/backend/temp
 2. `npm start`
 
 
+## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
