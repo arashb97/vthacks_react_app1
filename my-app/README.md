@@ -1,3 +1,19 @@
+## Usage with Backend
+
+### To Build React Code for Flask Backend:
+
+Run: `npm run build`
+
+The files will be built and placed in `/backend/static/react` and `/backend/templates` (HTML files).
+
+
+### First-time setup:
+
+1. `npm install`
+2. `npm start`
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
